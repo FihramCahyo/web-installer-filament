@@ -23,6 +23,7 @@
         "bezhansalleh/filament-shield": "^3.2",
         "codeat3/blade-fluentui-system-icons": "^1.32",
         "filament/filament": "^3.2",
+        "filament/forms": "^3.2",
         "filament/spatie-laravel-media-library-plugin": "^3.2",
         "filament/spatie-laravel-settings-plugin": "^3.2",
         "filament/spatie-laravel-tags-plugin": "^3.2",
@@ -33,8 +34,8 @@
         "laravel/tinker": "^2.8",
         "league/commonmark": "^2.4",
         "riodwanto/filament-ace-editor": "^1.0",
-        "z3d0x/filament-logger": "^0.7.2",
-        "shipu/web-installer": "^1.0"
+        "shipu/web-installer": "^1.0",
+        "z3d0x/filament-logger": "^0.7.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
